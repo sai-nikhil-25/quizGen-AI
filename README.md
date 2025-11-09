@@ -464,7 +464,7 @@ Frontend will open at `http://localhost:3000`
 
 **Developer:** Sai Nikhil Reddy Kunduri
 
-**GitHub:** [@yourusername](https://github.com/sai-nikhil-25)
+**GitHub:** [@sai-nikhil-25](https://github.com/sai-nikhil-25)
 
 
 ---
