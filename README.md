@@ -8,7 +8,6 @@ AI based quiz generation application
 
 AI QuizGen is a full-stack web application designed to help developers test and improve their programming knowledge. Unlike traditional quiz apps with static question banks, this platform leverages Google's Gemini AI to generate fresh, unique questions every time, ensuring an authentic learning experience.
 
-**Live Demo:** [Add your deployment link here]
 
 ---
 
